@@ -1,0 +1,1 @@
+var indexs = require("./prototype");

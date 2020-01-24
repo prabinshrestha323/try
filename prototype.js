@@ -1,3 +1,4 @@
+//var prototype;
 function student() {
   this.name = "Prabin";
   this.age = "24";
@@ -13,3 +14,5 @@ student.prototype = {
 
 var std = new student();
 console.log(std);
+
+module.exports = student;
