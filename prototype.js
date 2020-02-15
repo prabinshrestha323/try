@@ -15,4 +15,4 @@ student.prototype = {
 var std = new student();
 console.log(std);
 
-module.exports = student;
+module.exports = std;
